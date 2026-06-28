@@ -1,3 +1,4 @@
 - [LibreChat + Perlmutter setup](librechat-perlmutter-setup.md) — LibreChat (Docker, Mac) → SSH tunnel → NERSC Perlmutter qwen server; node changes need tunnel restart only
 - [kalshi-lab project](kalshi-lab-project.md) — read-only Kalshi analysis tool at github.com/wbhimji/kalshi-lab; structurally cannot place orders
+- [kalshi-lab current state](kalshi-lab-current-state.md) — what's scaffolded, what's stubbed, what's next (updated each session)
 - [Structural separation of risky ops](risky-ops-structural-separation.md) — for money/irreversible actions: isolate by directory + grep-guard test, not convention
